@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "helvetica";
+
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+input {
+  margin: 20px;
+  padding: 10px;
+}
+
+.page1 {
+  height: 100vh;
+  width: 100%;
+  background-color: #f1f1f1;
+}
+
+.page2 {
+  height: 100vh;
+  width: 100%;
+  background-color: #e1e1e1;
+}
+
+.page3 {
+  height: 100vh;
+  width: 100%;
+  background-color: #d1d1d1;
+}
